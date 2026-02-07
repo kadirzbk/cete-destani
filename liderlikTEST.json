@@ -3,32 +3,31 @@
     "players": [
       {
         "siraNo": 1,
-        "ogrenciAdi": "Ahmet Y.",
-        "okulAdi": "Atatürk Lis.",
-        "sinif": "11-B",
-        "skor": 50020,
-        "kahraman": "SutcuImam"
+        "ogrenciAdi": "Zeynep Demir",
+        "ogrenciNo": "10254",
+        "okulAdi": "Atatürk Lisesi",
+        "sinif": "12-C",
+        "skor": 75400
       },
       {
         "siraNo": 2,
-        "ogrenciAdi": "Fatih K.",
-        "okulAdi": "Galatasaray Lis.",
-        "sinif": "10-A",
-        "skor": 48500,
-        "kahraman": "Mehmet"
+        "ogrenciAdi": "Caner Yıldız",
+        "ogrenciNo": "09871",
+        "okulAdi": "Fen Lisesi",
+        "sinif": "11-A",
+        "skor": 72150
+      },
+      {
+        "siraNo": 3,
+        "ogrenciAdi": "Eda Yılmaz",
+        "ogrenciNo": "11542",
+        "okulAdi": "Anadolu Lisesi",
+        "sinif": "10-B",
+        "skor": 68900
       }
     ]
   },
   "okul": {
-    "players": [
-      {
-        "siraNo": 1,
-        "ogrenciAdi": "Ayşe M.",
-        "okulAdi": "Atatürk Lis.",
-        "sinif": "12-A",
-        "skor": 65000,
-        "kahraman": "Kara"
-      }
-    ]
+    "players": []
   }
 }
