@@ -3,27 +3,403 @@
     "players": [
       {
         "siraNo": 1,
-        "ogrenciAdi": "Zeynep Demir",
-        "ogrenciNo": "10254",
-        "okulAdi": "Atatürk Lisesi",
-        "sinif": "12-C",
-        "skor": 75400
+        "ogrenciAdi": "İsim Soyisim",
+        "ogrenciNo": 12345678910,
+        "okulAdi": "Cumhuriyet İlkokulu",
+        "sinif": "1-A",
+        "skor": 10000000
       },
       {
         "siraNo": 2,
-        "ogrenciAdi": "Caner Yıldız",
-        "ogrenciNo": "09871",
-        "okulAdi": "Fen Lisesi",
-        "sinif": "11-A",
-        "skor": 72150
+        "ogrenciAdi": "Sdad",
+        "ogrenciNo": 231,
+        "okulAdi": "Yok",
+        "sinif": "nolist",
+        "skor": 133306
       },
       {
         "siraNo": 3,
-        "ogrenciAdi": "Eda Yılmaz",
-        "ogrenciNo": "11542",
-        "okulAdi": "Anadolu Lisesi",
-        "sinif": "10-B",
-        "skor": 68900
+        "ogrenciAdi": "Asdasdsad",
+        "ogrenciNo": 56456,
+        "okulAdi": "Cumhuriyet Anadolu Lisesi",
+        "sinif": "9-B",
+        "skor": 109626
+      },
+      {
+        "siraNo": 4,
+        "ogrenciAdi": "Kadir",
+        "ogrenciNo": 5555555555,
+        "okulAdi": "Atatürk Anadolu Lisesi",
+        "sinif": "9-A",
+        "skor": 101143
+      },
+      {
+        "siraNo": 5,
+        "ogrenciAdi": "hocam sistem mükemmel  ",
+        "ogrenciNo": 920,
+        "okulAdi": "adet veriye kadar sorunsuz",
+        "sinif": "<3 <3 <3",
+        "skor": 99999
+      },
+      {
+        "siraNo": 6,
+        "ogrenciAdi": "Kadir Gagaragogo",
+        "ogrenciNo": 5555555555,
+        "okulAdi": "nolist",
+        "sinif": "nolist",
+        "skor": 66752
+      },
+      {
+        "siraNo": 7,
+        "ogrenciAdi": "Numara Hatası Fix",
+        "ogrenciNo": 23021,
+        "okulAdi": "Hacı Bayram Anadolu Lisesi",
+        "sinif": "12-E",
+        "skor": 66687
+      },
+      {
+        "siraNo": 8,
+        "ogrenciAdi": "İnternetsiz",
+        "ogrenciNo": 5555555555,
+        "okulAdi": "Cumhuriyet Anadolu Lisesi",
+        "sinif": "nolist",
+        "skor": 66163
+      },
+      {
+        "siraNo": 9,
+        "ogrenciAdi": "Fdsdfsfddsffdssdf",
+        "ogrenciNo": 13233,
+        "okulAdi": "Cumhuriyet Anadolu Lisesi",
+        "sinif": "9-B",
+        "skor": 65864
+      },
+      {
+        "siraNo": 10,
+        "ogrenciAdi": "No Düzeltme Öncesi",
+        "ogrenciNo": 5075889594,
+        "okulAdi": "Atatürk Anadolu Lisesi",
+        "sinif": "12-A",
+        "skor": 65804
+      },
+      {
+        "siraNo": 11,
+        "ogrenciAdi": "ss",
+        "ogrenciNo": 23,
+        "okulAdi": "istiklal",
+        "sinif": "9-A",
+        "skor": 55291
+      },
+      {
+        "siraNo": 12,
+        "ogrenciAdi": "Ferhat Kalın",
+        "ogrenciNo": 3234,
+        "okulAdi": "Hacı Bayram Anadolu Lisesi",
+        "sinif": "10-A",
+        "skor": 49382
+      },
+      {
+        "siraNo": 13,
+        "ogrenciAdi": "Gülizar Yaren Karakoçak",
+        "ogrenciNo": 2301,
+        "okulAdi": "Akşemseddin Kız Anadolu İmam Hatip Lisesi",
+        "sinif": "9-E",
+        "skor": 48467
+      },
+      {
+        "siraNo": 14,
+        "ogrenciAdi": "Abdülkadir Özbek ",
+        "ogrenciNo": 230,
+        "okulAdi": "Hacı Bayram Anadolu Lisesi",
+        "sinif": "10-A",
+        "skor": 37224
+      },
+      {
+        "siraNo": 15,
+        "ogrenciAdi": "DetailUser_405",
+        "ogrenciNo": 20405,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 16,
+        "ogrenciAdi": "DetailUser_375",
+        "ogrenciNo": 20375,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 17,
+        "ogrenciAdi": "DetailUser_385",
+        "ogrenciNo": 20385,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 18,
+        "ogrenciAdi": "DetailUser_227",
+        "ogrenciNo": 20227,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 19,
+        "ogrenciAdi": "DetailUser_373",
+        "ogrenciNo": 20373,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 20,
+        "ogrenciAdi": "DetailUser_406",
+        "ogrenciNo": 20406,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 21,
+        "ogrenciAdi": "DetailUser_107",
+        "ogrenciNo": 20107,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 22,
+        "ogrenciAdi": "DetailUser_327",
+        "ogrenciNo": 20327,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 23,
+        "ogrenciAdi": "DetailUser_209",
+        "ogrenciNo": 20209,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 24,
+        "ogrenciAdi": "DetailUser_298",
+        "ogrenciNo": 20298,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 25,
+        "ogrenciAdi": "DetailUser_148",
+        "ogrenciNo": 20148,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 26,
+        "ogrenciAdi": "DetailUser_139",
+        "ogrenciNo": 20139,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 27,
+        "ogrenciAdi": "DetailUser_248",
+        "ogrenciNo": 20248,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 28,
+        "ogrenciAdi": "DetailUser_505",
+        "ogrenciNo": 20505,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 29,
+        "ogrenciAdi": "DetailUser_479",
+        "ogrenciNo": 20479,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 30,
+        "ogrenciAdi": "DetailUser_400",
+        "ogrenciNo": 20400,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 31,
+        "ogrenciAdi": "DetailUser_381",
+        "ogrenciNo": 20381,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 32,
+        "ogrenciAdi": "DetailUser_483",
+        "ogrenciNo": 20483,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 33,
+        "ogrenciAdi": "DetailUser_482",
+        "ogrenciNo": 20482,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 34,
+        "ogrenciAdi": "DetailUser_424",
+        "ogrenciNo": 20424,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 35,
+        "ogrenciAdi": "DetailUser_478",
+        "ogrenciNo": 20478,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 36,
+        "ogrenciAdi": "DetailUser_303",
+        "ogrenciNo": 20303,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 37,
+        "ogrenciAdi": "DetailUser_512",
+        "ogrenciNo": 20512,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 38,
+        "ogrenciAdi": "DetailUser_559",
+        "ogrenciNo": 20559,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 39,
+        "ogrenciAdi": "DetailUser_551",
+        "ogrenciNo": 20551,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 40,
+        "ogrenciAdi": "DetailUser_607",
+        "ogrenciNo": 20607,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 41,
+        "ogrenciAdi": "DetailUser_557",
+        "ogrenciNo": 20557,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 42,
+        "ogrenciAdi": "DetailUser_648",
+        "ogrenciNo": 20648,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 43,
+        "ogrenciAdi": "DetailUser_195",
+        "ogrenciNo": 20195,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 44,
+        "ogrenciAdi": "DetailUser_110",
+        "ogrenciNo": 20110,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 45,
+        "ogrenciAdi": "DetailUser_202",
+        "ogrenciNo": 20202,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 46,
+        "ogrenciAdi": "DetailUser_163",
+        "ogrenciNo": 20163,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 47,
+        "ogrenciAdi": "DetailUser_37",
+        "ogrenciNo": 20037,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 48,
+        "ogrenciAdi": "DetailUser_67",
+        "ogrenciNo": 20067,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 49,
+        "ogrenciAdi": "DetailUser_77",
+        "ogrenciNo": 20077,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
+      },
+      {
+        "siraNo": 50,
+        "ogrenciAdi": "DetailUser_289",
+        "ogrenciNo": 20289,
+        "okulAdi": "Report High",
+        "sinif": "12-A",
+        "skor": 40
       }
     ]
   },
