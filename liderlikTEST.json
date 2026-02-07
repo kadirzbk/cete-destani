@@ -1,0 +1,34 @@
+{
+  "genel": {
+    "players": [
+      {
+        "siraNo": 1,
+        "ogrenciAdi": "Ahmet Y.",
+        "okulAdi": "Atatürk Lis.",
+        "sinif": "11-B",
+        "skor": 50020,
+        "kahraman": "SutcuImam"
+      },
+      {
+        "siraNo": 2,
+        "ogrenciAdi": "Fatih K.",
+        "okulAdi": "Galatasaray Lis.",
+        "sinif": "10-A",
+        "skor": 48500,
+        "kahraman": "Mehmet"
+      }
+    ]
+  },
+  "okul": {
+    "players": [
+      {
+        "siraNo": 1,
+        "ogrenciAdi": "Ayşe M.",
+        "okulAdi": "Atatürk Lis.",
+        "sinif": "12-A",
+        "skor": 65000,
+        "kahraman": "Kara"
+      }
+    ]
+  }
+}
