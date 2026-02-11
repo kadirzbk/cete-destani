@@ -3,35 +3,11 @@
     "players": [
       {
         "siraNo": 1,
-        "ogrenciAdi": "isim1",
-        "ogrenciNo": 1001,
-        "okulAdi": "okul",
-        "sinif": "sınıf",
-        "skor": 9500
-      },
-      {
-        "siraNo": 2,
-        "ogrenciAdi": "isim2",
-        "ogrenciNo": 1001,
-        "okulAdi": "okul",
-        "sinif": "sınıf",
-        "skor": 8750
-      },
-      {
-        "siraNo": 3,
-        "ogrenciAdi": "isim3",
-        "ogrenciNo": 1001,
-        "okulAdi": "okul",
-        "sinif": "sınıf",
-        "skor": 7200
-      },
-      {
-        "siraNo": 4,
-        "ogrenciAdi": "isim4",
-        "ogrenciNo": 1001,
-        "okulAdi": "okul",
-        "sinif": "sınıf",
-        "skor": 6400
+        "ogrenciAdi": "13 Şubat turnuva sonrası güncellenecektir.",
+        "ogrenciNo": 1,
+        "okulAdi": "1",
+        "sinif": "1",
+        "skor": 1
       }
     ]
   },
