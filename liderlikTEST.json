@@ -3,18 +3,26 @@
     "players": [
       {
         "siraNo": 1,
-        "ogrenciAdi": "Şubat",
-        "ogrenciNo": "13",
-        "okulAdi": "büyük turnuva sonrası",
-        "sinif": "güncellenecektir",
+        "ogrenciAdi": "boş",
+        "ogrenciNo": "1",
+        "okulAdi": "13 ŞUBAT",
+        "sinif": "BÜYÜK",
         "skor": 1
       },
       {
         "siraNo": 2,
-        "ogrenciAdi": "Şubat",
-        "ogrenciNo": "13",
-        "okulAdi": "büyük turnuva sonrası",
-        "sinif": "güncellenecektir",
+        "ogrenciAdi": "boş",
+        "ogrenciNo": "1",
+        "okulAdi": "TURNUVA",
+        "sinif": "SONRASI",
+        "skor": 1
+      },
+      {
+        "siraNo": 3,
+        "ogrenciAdi": "boş",
+        "ogrenciNo": "1",
+        "okulAdi": "GÜNCELLENECEKTİR",
+        "sinif": "İYİ OYUNLAR",
         "skor": 1
       }
     ]
