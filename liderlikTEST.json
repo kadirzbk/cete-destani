@@ -2,13 +2,21 @@
   "genel": {
     "players": [
       {
-        "siraNo": 3,
+        "siraNo": 1,
         "ogrenciAdi": "Şubat",
         "ogrenciNo": "13",
         "okulAdi": "büyük turnuva sonrası",
         "sinif": "güncellenecektir",
         "skor": 1
-      }
+      },
+      {
+        "siraNo": 2,
+        "ogrenciAdi": "Şubat",
+        "ogrenciNo": "13",
+        "okulAdi": "büyük turnuva sonrası",
+        "sinif": "güncellenecektir",
+        "skor": 1
+      },
     ]
   },
   "okul": {
